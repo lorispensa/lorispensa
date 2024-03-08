@@ -8,7 +8,7 @@ I am currently a computer science student at the University of Nice Côte d'Azur
 
 *   🌍  I'm based in Nice
 *   🖥️  See my portfolio at [loris-pensa.com]()
-*   ✉️  You can contact me at [akirakunam06@gmail.com](mailto:akirakunam06@gmail.com)
+*   ✉️  You can contact me at [loris.pensa@etu.unice.fr](mailto:loris.pensa@etu.unice.fr)
 *   🚀  I'm currently working on [ERP software for a gas station company (Update)]()
 *   🧠  I'm learning React.js
 *   ⚡  Passionate about photography
