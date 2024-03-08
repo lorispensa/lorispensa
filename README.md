@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorispensa&label=Profile%20views&color=0e75b6&style=flat" alt="lorispensa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorispensa" alt="lorispensa" /></a> </p>
-
 - 🔭 I’m Currently working on an ERP software for a gas station companyon ERP Petrol Station [Petrolia](Private Project)
 
 - 🌱 I’m currently learning **React.js, Flask, Django**
-
-- 👯 I’m looking to collaborate on [Petrolia](https://github.com/Akira98000)
 
 - 👨‍💻 All of my projects are available at [loris-pensa.fr](loris-pensa.fr)
 
