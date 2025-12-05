@@ -4,16 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science student
 ------------------------
 
-I am currently a computer science student at the University of Nice Côte d'Azur, with a baccalaureate degree in Mathematics and Computer Science from Sasserno High School in Nice. My passion for mathematics and computer science has led me to pursue studies in this exciting field. I am currently learning various programming skills and am eager to continue developing my knowledge. My GitHub profile will feature projects I have worked on to demonstrate my skills and experience.
-
-*   🌍  I'm based in Nice
-*   🖥️  See my portfolio at [loris-pensa.com]()
-*   ✉️  You can contact me at [loris.pensa@etu.unice.fr](mailto:loris.pensa@etu.unice.fr)
-*   🚀  I'm currently working on [ERP software for a gas station company (Update)]()
-*   🧠  I'm learning React.js
-*   ⚡  Passionate about photography
-
-### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
